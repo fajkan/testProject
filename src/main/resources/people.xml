@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <name>Carl Gustaf</name>
+    <lastName>Bernadotte</lastName>
+    <mobileNumber>0768-101801</mobileNumber>
+    <landLine>08-101801</landLine>
+    <address>Drottningholms slott</address>
+    <street>Stockholm</street>
+</person>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <name>Barack</name>
+    <lastName>Obama</lastName>
+    <mobileNumber>0768-101802</mobileNumber>
+    <landLine>08-101802</landLine>
+    <address>1600 Pennsylvania Avenue</address>
+    <street>Washington, D.C</street>
+</person>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<family>
+    <name>Victoria</name>
+    <birthYear>1977</birthYear>
+    <mobileNumber>0768-101801</mobileNumber>
+    <landLine>08-101801</landLine>
+    <address>Haga Slott</address>
+    <street>Stockholm</street>
+</family>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<family>
+    <name>Carl Philip</name>
+    <birthYear>1979</birthYear>
+    <mobileNumber>0768-101802</mobileNumber>
+    <landLine>08-101802</landLine>
+    <address>Haga Slott</address>
+    <street>Stockholm</street>
+</family>
